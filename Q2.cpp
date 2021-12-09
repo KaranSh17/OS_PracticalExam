@@ -28,6 +28,6 @@ int main()
 		/* parent will wait for the child to complete */
 		wait(NULL);
         cout<<"Parent Complete";
-    }
+    } 
     return 0;
 }
